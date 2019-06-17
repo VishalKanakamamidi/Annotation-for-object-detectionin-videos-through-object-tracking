@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>jpg</filename>
+    <path>video-PascalVOC-export/Annotations/new.mp4#t=9.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>416</width>
+        <height>416</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>cream</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>xmini</xmin>
+        <ymin>ymini</ymin>
+        <xmax>xmaxi</xmax>
+        <ymax>ymaxi</ymax>
+    </bndbox>
+</object>
+</annotation>
